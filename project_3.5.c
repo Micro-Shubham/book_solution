@@ -12,4 +12,3 @@ int main()
     printf("Row sums:%d %d %d %d", row1Sum, row2sum, row3sum, row4sum);
     return 0;
 }
-// 16 3 2 13 5 10 11 8 9 6 7 12 4 15 14 1
