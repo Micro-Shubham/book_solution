@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int que, rem, gcd, num1, num2, q;
+    int rem, gcd, num1, num2;
     printf("enter the number \n");
     scanf("%d %d", &num1, &num2);
     while (num1 != 0)
