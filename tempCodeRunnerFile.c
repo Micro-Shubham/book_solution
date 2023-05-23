@@ -1,1 +1,1 @@
-1
+printf("%f\n", sum);
