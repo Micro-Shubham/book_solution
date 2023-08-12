@@ -14,3 +14,4 @@ int main()
     printf("size of long double int=%zu bytes \n", sizeof(e));
     return 0;
 }
+// Note:The long keyword type cannot use for float and char type.
